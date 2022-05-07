@@ -1,5 +1,5 @@
 const config = {
-	ownerID: ['601865428117094401'],
+	ownerID: ['601865428117094401'], //your discord account ID
 	prefix: "DGM", //no necesary
 	token: 'your amazing bot token',
 	// For looking up Twitch, Fortnite, Steam accounts
